@@ -13,6 +13,5 @@ This repository contains [programming assigments](https://github.com/wangyf9/CS1
 ## Final Project
 ![image](./Final_pj/ChessAi/img/whole%20board.png)  
 
-For our final project, we implement the Chess AI by using many types of different agents, including Random(with little intelligence), Minimax(alpha-beta pruing), Expectimax, MCTS and simple Neural Network. First, we find the appropriate evaluation function so that different chesses can act more efficiently. For NN model, we implement an auto-training process  
-by using stored and preprocessed data which is produced by other agents' playing to enhance its performance.  
+For our final project, we implement the Chess AI by using many types of different agents, including Random(with little intelligence), Minimax(alpha-beta pruing), Expectimax, MCTS and simple Neural Network. First, we find the appropriate evaluation function so that different chesses can act more efficiently. For NN model, we implement an auto-training process by using stored and preprocessed data which is produced by other agents' playing to enhance its performance.  
 You can refer to [Sunfish Chess Ai](https://github.com/thomasahle/sunfish) for a guidance.
